@@ -1,0 +1,11 @@
+::placeholder{
+    color: #c0c1c2;
+}
+.wpwall{
+background-image: url("/public/watsappwallpaper.png");
+}
+ input:focus{
+   border: none; 
+   outline: none;
+   color: white;
+}
