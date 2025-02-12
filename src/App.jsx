@@ -4,9 +4,9 @@ import Watsappclone from './components/Watsappclone'
 const App = () => {
   return (
     <>
-  <Watsappclone />
+  <Watsappclone /> 
   </>
   )
 }
-
+//hty
 export default App
